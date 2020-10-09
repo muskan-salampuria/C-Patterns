@@ -8,4 +8,3 @@
 - Pyramid of Numbers and stars
 - Rectangle
 - Right Up Hollow Pyramid
-
